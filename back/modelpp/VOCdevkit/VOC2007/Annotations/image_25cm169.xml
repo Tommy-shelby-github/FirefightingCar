@@ -1,0 +1,26 @@
+<annotation>
+	<folder>photo</folder>
+	<filename>image_25cm169.jpg</filename>
+	<path>C:\Users\maorui\Desktop\火焰数据集\photo\image_25cm169.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>768</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>425</xmin>
+			<ymin>512</ymin>
+			<xmax>568</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>
